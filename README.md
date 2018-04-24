@@ -1,5 +1,5 @@
 # VectorAnimator
-写个矢量动画：
+矢量动画：
 - 第一步：定义vector_animator,将它作为ImageView的背景，可以把它理解为矢量动画的控制器，它规定了矢量动画的动作。
 ```
 <animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
